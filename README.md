@@ -1,1 +1,1 @@
-# .github
+# Bemjax Lab repo
